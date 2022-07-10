@@ -13,10 +13,16 @@
       "reminder": false
     },
     {
-      "id": 3,
-      "text": "Wyjście na zakupy",
-      "day": "May 7th at 12:30pm",
-      "reminder": true
+      "text": "zrobić kupla",
+      "day": "dziś",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "chuj",
+      "day": "dwa",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
